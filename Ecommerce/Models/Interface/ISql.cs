@@ -13,7 +13,7 @@ namespace Ecommerce.Models.Interface
         T GetById(int Id);
         bool Add();
         bool Delete();
-        bool Update();
+        bool Update();//
 
     }
 }
